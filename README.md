@@ -3,7 +3,7 @@ Làm giao diện theo REEN. <br>
 Người thực hiện : Phạm Trung Tá.
 # Liên kết :
 Tham khảo cách sử dụng bootstrap. <br>
-Link bài làm online : https://kingcats10012001.github.io/REEN/
+Link bài làm online : https://trungtaxp.github.io/REEN/
 # Hướng dẫn sử dụng :
 Chạy file index.html.
 # Kiến thức nắm được :
